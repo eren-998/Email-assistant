@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --bg-dark: #09090b;
-  --bg-card: #18181b;
-  --bg-hover: #27272a;
-  --primary: #8b5cf6;
-  --primary-hover: #7c3aed;
-  --text-main: #fafafa;
-  --text-muted: #a1a1aa;
-  --border: #27272a;
+  --bg-dark: #f9fafb;
+  --bg-card: #ffffff;
+  --bg-hover: #f3f4f6;
+  --primary: #4f46e5;
+  --primary-hover: #4338ca;
+  --text-main: #0f172a;
+  --text-muted: #6b7280;
+  --border: #e5e7eb;
 }
 
 body {
@@ -46,7 +46,7 @@ body {
 }
 
 .prose strong {
-  color: #fff;
+  color: #0f172a;
   font-weight: 600;
 }
 
